@@ -25,6 +25,8 @@ b. Insert paths (3x) for input and output (see main-function).
 
 c. Adjust title, axes etc. for plot (see funnel-function)
 
+The script creates the plot and a .xlsx-file with all counties and their position on the plot (i.e. if they are inside our outside of the control limits). The .xlsx-file can be used to create maps which show all counties with special cause variation. 
+
 ## References
 Mohammed MA, Cheng KK, Rouse A, Marshall T. Bristol, Shipman, and clinical governance: Shewhart's forgotten lessons. Lancet. 2001 Feb 10;357(9254):463-7. doi: 10.1016/s0140-6736(00)04019-8.
 
